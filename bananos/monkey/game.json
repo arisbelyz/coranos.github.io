@@ -8,7 +8,7 @@
 		"L": "50192.png"
 	},
 	"totalWinners": 0,
-	"accountIsInvalidFlag": true,
+	"accountIsInvalidFlag": false,
 	"time": 3000,
 	"slowDownFlag": false,
 	"losses": 0,
