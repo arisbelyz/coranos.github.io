@@ -68,8 +68,9 @@ function submitForm(token) {
     }
     const botInput = document.getElementById('old-bot');
     if (botInput.value.length == 0) {
-        document.getElementById('new-bot').style['background-color'] = 'red';
-        return false;
+      d3.selectAll('input[name="bot"]').each(function(d, i) {
+        d3.select(this).style('background-color','red');
+      });
     }
     if (time > 0) {
         var timeDiv = document.getElementById('timer');
@@ -294,7 +295,7 @@ function synchDiscordDisplay() {
 function synchBotDisplay() {
     const account = d3.select('#old-account').node().value;
     const discord = d3.select('#old-discord').node().value;
-    const bot = d3.selectAll('#new-bot:checked').node().value;
+    const bot = d3.selectAll('input[name="bot"]:checked').node().value;
     if ((account.length == 0) || (discord.length == 0) || (bot.length == 0)) {
       d3.select('#hasBotFlagYes').style('display', 'none');
       d3.select('#hasBotFlagNo').style('display', 'block');
@@ -411,11 +412,11 @@ function addBotDivs(accountDiv) {
   const noBot = tr1.append('th').attr('class','solid_border centered_text');
   const maybeBot = tr1.append('th').attr('class','solid_border centered_text');
   
-  yesBot.append('input').attr('id','new-bot').attr('type','radio').attr('name','bot').attr('value','yes');
+  yesBot.append('input').attr('id','new-bot-yes').attr('type','radio').attr('name','bot').attr('value','yes');
   yesBot.append('span').text('i am a bot');
-  noBot.append('input').attr('id','new-bot').attr('type','radio').attr('name','bot').attr('value','no');
+  noBot.append('input').attr('id','new-bot-no').attr('type','radio').attr('name','bot').attr('value','no');
   noBot.append('span').text('i am not a bot');
-  maybeBot.append('input').attr('id','new-bot').attr('type','radio').attr('name','bot').attr('value','maybe').attr('checked',true);
+  maybeBot.append('input').attr('id','new-bot-maybe').attr('type','radio').attr('name','bot').attr('value','maybe').attr('checked',true);
   maybeBot.append('span').text('i am not sure');
 }
 
