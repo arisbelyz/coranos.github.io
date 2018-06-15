@@ -1,6 +1,7 @@
 #Talent Contest Banano June 2018 - Community Contest - Sponsored by La Jungla
 
 ###Juicios y lineas de tiempo
+
 ###Judgement and timelines
 
 * Actualizaciones de registros no seran aceptados durante el periodo de gracia, 
@@ -10,6 +11,7 @@ once you submit your photos and video, you will not be allowed to send more of t
 
 
 ###Pagos
+
 ###Payments
 
 * Habrá 5 ganadores mayoritarios.
