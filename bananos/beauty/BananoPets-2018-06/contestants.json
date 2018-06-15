@@ -26,14 +26,19 @@
 		"banano": [
 			"https://i.imgur.com/o4snUfe.jpg"
 		],
-		"video": []
+		"video": [
+		        {
+                               "thumbnail": "https://img.youtube.com/vi/qYdXxGVqn5Y/default.jpg",
+                               "video": "https://www.youtube.com/embed/qYdXxGVqn5Y"
+                        }
+               ]
 	},
 	{
 		"contestant": "3",
 		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-05-29 12:00",
 		"discord": "",
 		"verification": [
-			""
+			"",
 		],
 		"banano": [
 			""
