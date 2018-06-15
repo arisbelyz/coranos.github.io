@@ -345,7 +345,7 @@ function setupHtml () {
   tr3.append('th').attr('colspan','8').attr('class','solid_border centered_text').attr('id','winnerStats').text('??');
 
 //  body.append('p').append('b').text('Total Bananos Won may not be actual bananos.');
-  body.append('p').append('b').style('background','red').text('Game is in demo mode, no bananos won will be distributed (watch for this message to disappear).');
+  body.append('p').append('b').style('background','red').text('Game is in demo mode, no bananos won will be distributed (watch for this message to disappear at 5PM Chicago Time on Friday June 15th).');
   
   body.append('p').text('Game Starts In (Seconds) ').append('span').attr('id','timer').text('??');
   
