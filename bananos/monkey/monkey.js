@@ -397,7 +397,7 @@ function addDiscordDivs(accountDiv) {
   
   const noDiscordDiv = accountDiv.append('div');
   noDiscordDiv.attr('id','hasDiscordFlagNo').append('p').append('b')
-    .text('Please enter a discord id.');
+    .text('Please enter a discord id (like @Coranos#4281).');
   noDiscordDiv
     .append('input').attr('id','new-discord').attr('type','text').attr('name','discord').attr('value','').attr('size','64');
 }
