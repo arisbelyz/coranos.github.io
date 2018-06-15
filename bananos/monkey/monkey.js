@@ -349,8 +349,11 @@ function setupHtml () {
   const tr5 = table.append('tr');
   tr5.append('th').attr('colspan','8').attr('class','solid_border centered_text').attr('id','winnerStats').text('??');
 
-//  body.append('p').append('b').text('Total Bananos Won may not be actual bananos.');
-  body.append('p').append('b').style('background','red').text('Game is in demo mode, no bananos won will be distributed (watch for this message to disappear at 5PM Chicago Time on Friday June 15th).');
+  body.append('p').append('b').style('background','lightgreen').html('Game is live. Bananos will be distributed to all verified accounts<br>'
+    + 'after a verification period has passed.<br>'
+    + '(This message will disappear at 5AM Chicago Time on Monday June 18th).');
+// body.append('p').append('b').style('background','red').text('Game is in demo mode, no bananos won will be distributed (watch for this message to disappear at
+// 5PM Chicago Time on Friday June 15th).');
   
   body.append('p').text('Game Starts In (Seconds) ').append('span').attr('id','timer').text('??');
   
