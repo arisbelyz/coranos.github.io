@@ -76,13 +76,13 @@
 	},
 	{
 		"contestant": "5",
-		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-05-29 16:00",
-		"discord": "",
+		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-15 16:00",
+		"discord": "@azuLeto#1082",
 		"verification": [
-			""
+			"https://i.imgur.com/twCZ8fV.jpg"
 		],
 		"banano": [
-			""
+			"https://i.imgur.com/U7KlIW9.jpg"
 		],
 		"video": [
 			{
@@ -90,5 +90,26 @@
 				"video": ""
 			}
 		]
-	}
+	},
+	{       
+		"contestant": "5",
+		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-15 16:01",
+		"discord": "@👑 Nela 👑#6999",
+		"verification": [
+			"https://i.imgur.com/xGNRqyu.jpg",
+			"https://i.imgur.com/Ui6KHj5.jpg"
+		],
+		"banano": [
+			"https://i.imgur.com/AAdfLwn.jpg",
+			"https://i.imgur.com/QpLU3dH.jpg",
+			"https://i.imgur.com/XMM9cP5.jpg"
+		],
+		"video": [
+			{
+				"thumbnail": "",
+				"video": ""
+			}	
+                ]
+        }
 ]
+		
