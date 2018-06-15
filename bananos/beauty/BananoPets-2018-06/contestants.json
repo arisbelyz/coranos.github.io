@@ -44,6 +44,10 @@
 			"https://i.imgur.com/7yZeldB.jpg"
 		],
 		"video": [
+		        {
+                               "thumbnail": "",
+                               "video": ""
+                        }
 		]
 	},
 	{
@@ -57,10 +61,10 @@
 			""
 		],
 		"video": [
-			{
-				""
-				""
-			}
+		        {
+                               "thumbnail": "",
+                               "video": ""
+                        }
 		]
 	},
 	{
@@ -74,10 +78,10 @@
 			""
 		],
 		"video": [
-			{
-				""
-				""
-			}
+		        {
+                               "thumbnail": "",
+                               "video": ""
+                        }
 		]		
 	}
 ]
