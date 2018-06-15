@@ -35,53 +35,55 @@
 	},
 	{
 		"contestant": "3",
-		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-05-29 12:00",
-		"discord": "",
+		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-14 22:00",
+		"discord": "@Snappadoodle🇺🇸#4147",
 		"verification": [
-			"",
+			"https://i.imgur.com/7yZeldB.jpg",
 		],
 		"banano": [
-			""
+			"https://i.imgur.com/7yZeldB.jpg"
 		],
 		"video": [
 			{
-				"thumbnail": "https://img.youtube.com/vi/veosr9sqHb8/default.jpg",
-				"video": "https://www.youtube.com/embed/veosr9sqHb8"
-			},
-			{
-				"thumbnail": "https://img.youtube.com/vi/fXmMTKGOxHQ/default.jpg",
-				"video": "https://www.youtube.com/embed/fXmMTKGOxHQ"
+				"",
+				""
 			}
 		]
 	},
 	{
 		"contestant": "4",
 		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-05-29 12:10",
-		"discord": "rah 🇨🇦#0704",
+		"discord": "",
 		"verification": [
-			"https://i.imgur.com/T3J1Hc5.jpg",
-			"https://i.imgur.com/hV2N3Gz.jpg",
-			"https://i.imgur.com/3b4sBLW.jpg"
+			""
 		],
 		"banano": [
+			""
 		],
 		"video": [
 			{
-				"thumbnail": "https://img.youtube.com/vi/UpnlGGJhDzU/default.jpg",
-				"video": "https://www.youtube.com/embed/UpnlGGJhDzU"
+				"",
+				""
 			}
 		]
 	},
 	{
 		"contestant": "5",
 		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-05-29 16:00",
-		"discord": "Jacko#7828",
+		"discord": "",
 		"verification": [
-			"https://i.imgur.com/C64vjvE.png"
+			""
 		],
 		"banano": [
+			""
 		],
 		"video": [
+			{
+				"",
+				""
+			}
+		]
+			
 		]
 	}
 ]
