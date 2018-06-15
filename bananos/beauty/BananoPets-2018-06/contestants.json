@@ -10,7 +10,10 @@
 			"https://i.imgur.com/o9jfPbO.jpg"
 		],
 		"video": [
-		        "https://www.youtube.com/watch?v=xGOct6ebaAw&feature=youtu.be"
+			{
+				"thumbnail": "https://img.youtube.com/vi/xGOct6ebaAw/default.jpg",
+				"video": "https://www.youtube.com/embed/xGOct6ebaAw"
+			}
 		]
 	},
 	{
