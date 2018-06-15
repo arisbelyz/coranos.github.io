@@ -224,7 +224,8 @@ function newGame(token) {
         
         updateScore(gameJson.wins,gameJson.losses);
         d3.select('#winnerStats')
-          .html('number of winners over ' + gameJson.winnerThreshold + ' is ' + gameJson.totalWinners + ' of ' + gameJson.maxWinners);
+          .html('number of winners over ' + gameJson.winnerThreshold + ' is ' + gameJson.totalWinners + ' of ' + gameJson.maxWinners
+              + ' with a total payout of ' + gameJson.totalPayout + ' of ' + gameJson.maxPayout + '.');
 
 
         gameJson.expected.prefix = gameJson.prefix;
@@ -314,36 +315,39 @@ function setupHtml () {
   
   const table = body.append('table');
   table.attr('class','solid_border centered_text');
+  
   const tr1 = table.append('tr');
-  tr1.append('th').attr('class','solid_border centered_text').text('Bananos Found');
-  tr1.append('th').attr('class','solid_border centered_text').text('Bananos Lost');
-  tr1.append('th').attr('class','solid_border centered_text').text('Bananos Won');
-  tr1.append('th').attr('class','solid_border centered_text').text('Tutorial Video')
   tr1.append('th').attr('class','solid_border centered_text').text('Client Version')
   tr1.append('th').attr('class','solid_border centered_text').text('Server Version')
   tr1.append('th').attr('class','solid_border centered_text').text('Bytes Used')
   tr1.append('th').attr('class','solid_border centered_text').text('Reload Images')
   
   const tr2 = table.append('tr');
-  tr2.append('th').attr('class','solid_border centered_text').attr('id','goodScore').text('0');
-  tr2.append('th').attr('class','solid_border centered_text').attr('id','badScore').text('0');
-  tr2.append('th').attr('class','solid_border centered_text').style('background','lightgreen').attr('id','totalScore').text('0');
-
+  tr2.append('th').attr('class','solid_border centered_text').attr('id','clientVersion').text(clientVersion);
+  tr2.append('th').attr('class','solid_border centered_text').attr('id','serverVersion').text('??');
+  tr2.append('th').attr('class','solid_border centered_text').attr('id','bytesUsed').text('0');
   tr2.append('th').attr('class','solid_border centered_text')
+  .append('button').attr('type','button').attr('onclick','javascript:reloadImages()').text('Reload Images')
+  
+  const tr3 = table.append('tr');
+  tr3.append('th').attr('class','solid_border centered_text').text('Bananos Found');
+  tr3.append('th').attr('class','solid_border centered_text').text('Bananos Lost');
+  tr3.append('th').attr('class','solid_border centered_text').text('Bananos Won');
+  tr3.append('th').attr('class','solid_border centered_text').text('Tutorial Video')
+  
+  const tr4 = table.append('tr');
+  tr4.append('th').attr('class','solid_border centered_text').attr('id','goodScore').text('0');
+  tr4.append('th').attr('class','solid_border centered_text').attr('id','badScore').text('0');
+  tr4.append('th').attr('class','solid_border centered_text').style('background','lightgreen').attr('id','totalScore').text('0');
+
+  tr4.append('th').attr('class','solid_border centered_text')
     .append('a').attr('target','_blank').attr('href','https://www.youtube.com/embed/E23TD-Zwaek')
     .append('img').attr('src','https://img.youtube.com/vi/E23TD-Zwaek/default.jpg')
     .style('height','25px')
     .style('max-width','100%')
 
-  tr2.append('th').attr('class','solid_border centered_text').attr('id','clientVersion').text(clientVersion);
-  tr2.append('th').attr('class','solid_border centered_text').attr('id','serverVersion').text('??');
-  tr2.append('th').attr('class','solid_border centered_text').attr('id','bytesUsed').text('0');
-
-  tr2.append('th').attr('class','solid_border centered_text')
-    .append('button').attr('type','button').attr('onclick','javascript:reloadImages()').text('Reload Images')
-
-  const tr3 = table.append('tr');
-  tr3.append('th').attr('colspan','8').attr('class','solid_border centered_text').attr('id','winnerStats').text('??');
+  const tr5 = table.append('tr');
+  tr5.append('th').attr('colspan','8').attr('class','solid_border centered_text').attr('id','winnerStats').text('??');
 
 //  body.append('p').append('b').text('Total Bananos Won may not be actual bananos.');
   body.append('p').append('b').style('background','red').text('Game is in demo mode, no bananos won will be distributed (watch for this message to disappear at 5PM Chicago Time on Friday June 15th).');

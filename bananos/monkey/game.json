@@ -7,6 +7,8 @@
 		"R": "42666.png",
 		"L": "50192.png"
 	},
+	"totalPayout": 30536,
+	"maxPayout": 2000000,
 	"totalWinners": 0,
 	"accountIsInvalidFlag": false,
 	"time": 3000,
