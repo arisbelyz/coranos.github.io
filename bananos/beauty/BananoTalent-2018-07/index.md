@@ -99,14 +99,19 @@
 
 ###images/ videos and identification
 
-		1-El concurso consistirá en una imágen de identificación, una (opcional) con bananas y un video (opcional).
-		1-The contest will consist of one verification image, one (optional) banano image, and one (optional) video.
+		1- El concurso consistirá en una imágen de identificación, una (opcional) con bananas y un video (opcional).
+		1- The contest will consist of one verification image, one (optional) banano image, and one (optional) video.
 		
-		2-Por favor trate de subir sus imágenes a https://imgur.com/ y envie un link de ellas. Si no se siente cómodo alojándolas en su cuenta personal, Coranos puede subirlas a su página.
-		2-Please try to post the images on https://imgur.com/ and link to them. If you are not comfortable using your personal account, Coranos can host them for you.
+		2- Por favor trate de subir sus imágenes a https://imgur.com/ y envie un link de ellas. Si no se siente cómodo alojándolas en su cuenta personal, Coranos puede subirlas a su página.
+		2- Please try to post the images on https://imgur.com/ and link to them. If you are not comfortable using your personal account, Coranos can host them for you.
 		
-		3-Discord a veces hace la calidad del video e imágen inferior a la original.
-		3-Discord sometimes makes the quality of the image lower than the original.
+		3- Discord a veces hace la calidad del video e imágen inferior a la original.
+		3- Discord sometimes makes the quality of the image lower than the original.
+
+
+		4- Please try to post the videos on https://www.youtube.com/ and link to them. If you are not comfortable using your personal account, Coranos can host them for you.
+		4- Por favor trate de publicar sus videos en https://www.youtube.com/ y enviar el link. Si no se siente cómodo usando su cuenta personal, Coranos puede publicarlos por usted.
+		4- Por favor, tente postar os vídeos em https://www.youtube.com/ e linkar eles. Se você não se sentir confortável em usar sua conta pessoal, o Coranos poderá hospedá-los para você.
 
 * Imagen uno / identificacion
 * Images one / identification
