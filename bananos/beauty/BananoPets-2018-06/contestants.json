@@ -27,11 +27,15 @@
 			"https://i.imgur.com/o4snUfe.jpg"
 		],
 		"video": [
-		        {
-                               "thumbnail": "https://img.youtube.com/vi/qYdXxGVqn5Y/default.jpg",
-                               "video": "https://www.youtube.com/embed/qYdXxGVqn5Y"
-                        }
-               ]
+			{
+				"thumbnail": "https://img.youtube.com/vi/qYdXxGVqn5Y/default.jpg",
+				"video": "https://www.youtube.com/embed/qYdXxGVqn5Y"
+			},
+			{
+				"thumbnail": "https://img.youtube.com/vi/MhnhykJgjP0/default.jpg",
+				"video": "https://www.youtube.com/embed/MhnhykJgjP0"
+			}
+		]
 	},
 	{
 		"contestant": "3",
@@ -44,10 +48,10 @@
 			"https://i.imgur.com/7yZeldB.jpg"
 		],
 		"video": [
-		        {
-                               "thumbnail": "",
-                               "video": ""
-                        }
+			{
+				"thumbnail": "",
+				"video": ""
+			}
 		]
 	},
 	{
@@ -58,17 +62,16 @@
 			"https://i.imgur.com/019vOg2.jpg",
 			"https://i.imgur.com/cWWnHk0.jpg",
 			"https://i.imgur.com/JppgRYN.jpg"
-			
 		],
 		"banano": [
 			"https://i.imgur.com/KMrWMFK.jpg",
 			"https://i.imgur.com/vkUTdN6.jpg"
 		],
 		"video": [
-		        {
-                               "thumbnail": "",
-                               "video": ""
-                        }
+			{
+				"thumbnail": "",
+				"video": ""
+			}
 		]
 	},
 	{
@@ -82,10 +85,10 @@
 			""
 		],
 		"video": [
-		        {
-                               "thumbnail": "",
-                               "video": ""
-                        }
-		]		
+			{
+				"thumbnail": "",
+				"video": ""
+			}
+		]
 	}
 ]
