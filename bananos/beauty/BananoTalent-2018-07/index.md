@@ -1,14 +1,67 @@
 #Talent Contest Banano June 2018 - Community Contest - Sponsored by La Jungla
 
+### Guidelines (Optional)
+		
+		1- Use buena iluminación y lo mas natural posible, ni tan oscura ni tan brillante.
+		1- Use good lighting and as natural as possible, neither very dark nor very bright.
+		
+		2- Use un fondo neutro que lo resalte, preferiblemente colores claros.
+		2- Use a neutral background that highlights you, light colors preferably.
+		
+		3- Usa tu imaginación, sé creativo.
+		3- Use your imagination, be creative.
+
+### Rules (Required)
+		
+		4- No es necesario que sea ciudadano de la Republica banano.
+		4- It is not necessary for you to be a citizen of the banana republic.
+		
+		5- Todos los participantes deben ser mayores de edad.
+		5- All participants must be of legal age.
+		
+		6- Un menor puede aparecer en la foto y en el video con el participante, pero tiene que estar vestido y cubierto de hombros a tobillos.
+		6- A minor can be in the photo and the video with the contestant, but must have clothes covering shoulders to knees.
+		
+		7- Todas las fotos y videos tienen que ser legales y accede a que el concurso los use y sean visibles para el público (no sólo para los jueces).
+		7- All photos and videos must be legal, and you agree the contest can use them for the contest, visible to the public (not just to judges).
+		
+		8- No desnudos, no pornografia.
+		8- No nudity, not pornography.
+		
+		9- No seran validas las fotos con derecho de autor o sacadas de internet seran revisadas una a una.
+		9- Submissions will not be valid if they are photos that were copyrighted or taken from the internet. They will be reviewed by the judges as needed.
+		
+		10- Si usted es un fotógrafo profesional y quiere hacer autofotos, entonces no hay problema.
+		10- If you are a professional photographer and want to make selfies, then there is no problem.
+		
+		11- Evite incluir cualquier cosa que pueda permitir a otros acosarle, como su dirección de casa, etc.
+		11- Avoid including anything that would help someone harrass you, like your street address.
+
+
 ###Juicios y lineas de tiempo
 
 ###Judgement and timelines
 
-* Actualizaciones de registros no seran aceptados durante el periodo de gracia, 
-una vez que envie sus fotos y video, no estara permitido que envie mas de estos.
-* Registrations updates will not be accepted during the grace period, 
-once you submit your photos and video, you will not be allowed to send more of these.
+		- El jurado tiene la ultima palabra a la hora de decidir el ganador.
+		- The judges have the last word when deciding the winner.
+		
+		- Habra un periodo de gracias de 6 horas debido a las malas conexiones a internet y fallas electricas en algunas zonas para asi organizarnos bien los jueces.
+		- There will be a grace period of 6 hours due to poor internet connections and power failures in some areas so judges can organize the contestants.
+		
+		- Durante el tiempo de gracia antes mencionado no estaran habilitados los registros, asi que registrate temprano.
+		- Once the grace period has started, you will not be allowed to reguster as a new contestant, so register early.
+		
+		- Actualizaciones de registros no seran aceptados durante el periodo de gracia, una vez que envie sus fotos y video, no estara permitido que envie mas de estos.
+		- registration will not be accepted during the grace period, once you submit your photos and video, you will not be allowed to send more unless it is correcting a mistake.
+		
+		- Todos los concursantes seran juzgados uno a uno, de pasar la primera fase de evaluacion estaran sus fotos al final de esta hoja.
+		- All contestants will be judged one by one, to pass the first phase of evaluation will be their photos at the end of this sheet.
 
+		- Los ganadores serán determinados por mayoría absoluta (sistema instant-runoff voting).
+		- Winners will be determined by Instant Runoff Voting.
+		
+		- Los votos de los jueces serán publicados para la verificación.
+		- The judge's votes will be published publicly for verification.
 
 ###Pagos
 
@@ -46,17 +99,21 @@ once you submit your photos and video, you will not be allowed to send more of t
 
 ###images/ videos and identification
 
+		1-El concurso consistirá en una imágen de identificación, una (opcional) con bananas y un video (opcional).
+		1-The contest will consist of one verification image, one (optional) banano image, and one (optional) video.
+		
+		2-Por favor trate de subir sus imágenes a https://imgur.com/ y envie un link de ellas. Si no se siente cómodo alojándolas en su cuenta personal, Coranos puede subirlas a su página.
+		2-Please try to post the images on https://imgur.com/ and link to them. If you are not comfortable using your personal account, Coranos can host them for you.
+		
+		3-Discord a veces hace la calidad del video e imágen inferior a la original.
+		3-Discord sometimes makes the quality of the image lower than the original.
+
 * Imagen uno / identificacion
 * Images one / identification
 
-		1- Primera foto, debe ser del participante sosteniendo un papel con su ID y nombre de usuarios de discord,
-	
-		El rostro debe ser visible. 
+		1- Primera foto, debe ser del participante sosteniendo un papel con su ID y nombre de usuarios de discord, El rostro debe ser visible. 
 		
-		
-		1- First photo, it must be the participant holding a paper with his ID and discord user name,
-		
-		The face must be visible.
+		1- First photo, it must be the participant holding a paper with his ID and discord user name, 	The face must be visible.
 	
 		2- Limite de 3 fotos por concursante.
 	
@@ -75,7 +132,7 @@ once you submit your photos and video, you will not be allowed to send more of t
 		es decir, no se permite dos o mas participantes con el mismo cartel, cada usuarios debe tener el suyo.
 		
 		2- It must have a sign that says: #BananoCoin #TeamJunglo and also #MyTalent. The poster is not transferable, 
-		that is, two or more participants with the same poster are not allowed, each user must have theirsdos 
+		that is, two or more participants with the same poster are not allowed, each user must have their own. 
 		
 		3- Limite de 3 fotos por concursante.
 		
@@ -130,4 +187,5 @@ once you submit your photos and video, you will not be allowed to send more of t
 * Nota: Recuerde, no es un concurso de belleza.
 * Note: Remember, it's not a beauty contest.
 
-###and Of course, the contest is for both sexes.
+### The contest is for both sexes.
+
