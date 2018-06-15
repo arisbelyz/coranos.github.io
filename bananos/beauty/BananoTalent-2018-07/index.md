@@ -43,6 +43,7 @@ once you submit your photos and video, you will not be allowed to send more of t
 	Note: if not enough users are registered, the remaining percentage will be divided among all the participants.
 	
 ###imágenes / videos e identificación
+
 ###images/ videos and identification
 
 * Imagen uno / identificacion
@@ -83,9 +84,9 @@ once you submit your photos and video, you will not be allowed to send more of t
 		Nota: Se tendra en cuenta los bananas y la creatividad.
 		Note: Bananas and creativity will be taken into account.
 		
-*Video (Obligatorio)
+* Video (Obligatorio)
 
-*Video (Required)
+* Video (Required)
 
 		1- El video consiste en demostrar su talento haciendo algo en lo que son buenos (se recomienda no extender mucho el video). 
 		En este caso, el video debe ser obligatorio, ya que estamos hablando de talentos, y debemos verificarlo. 
@@ -106,7 +107,8 @@ once you submit your photos and video, you will not be allowed to send more of t
 		4- Puede enviar un solo video, un máximo de dos videos, puede mostrar el mismo talento en ambos videos o en dos talentos diferentes.
 		4- You can send a single video, maximum two videos, you can show the same talent in both videos or two different talents.
 
-###Para los jueces: Aspectos a evaluar:
+###Para los jueces: Aspectos a evaluar
+
 ###For the judges: Aspects to be evaluated
 
 * Deben votar en base a:
