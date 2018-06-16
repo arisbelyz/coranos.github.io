@@ -47,23 +47,15 @@
 		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-14 22:00",
 		"discord": "@Snappadoodle🇺🇸#4147",
 		"verification": [
-			"https://i.imgur.com/7yZeldB.jpg",
-			"https://cdn.discordapp.com/attachments/457641061477646347/457641735582121985/IMG_20180613_181140.jpg",
-			"https://cdn.discordapp.com/attachments/457641061477646347/457642018596978706/IMG_20180615_120746.jpg"
+			"https://i.imgur.com/7yZeldB.jpg"
 		],
 		"banano": [
-			"https://i.imgur.com/7yZeldB.jpg",
-			"https://cdn.discordapp.com/attachments/457641061477646347/457641788794994707/LALA_still.jpg",
-			"https://cdn.discordapp.com/attachments/457641061477646347/457642026498916362/Woody_still.jpg"
+			"https://i.imgur.com/7yZeldB.jpg"
 		],
 		"video": [
 			{
-				"thumbnail": "https://img.youtube.com/vi/GqqCjLt1m7I/default.jpg",
-				"video": "https://www.youtube.com/embed/GqqCjLt1m7I"
-			},
-			{
-				"thumbnail": "https://img.youtube.com/vi/txnO844oYEs/default.jpg",
-				"video": "https://www.youtube.com/embed/txnO844oYEs"
+				"thumbnail": "",
+				"video": ""
 			}
 		]
 	},
@@ -234,5 +226,120 @@
 				"video": "https://www.youtube.com/embed/5rJBrSJx6cw"
 			}
 		]
+	},
+	{
+		"contestant": "13",
+		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-16 14:19",
+		"discord": "@Snappadoodle🇺🇸#4147",
+		"verification": [
+			"https://i.imgur.com/7raSnIa.jpg",
+			"https://i.imgur.com/nKM0Vq1.jpg"
+		],
+		"banano": [
+			"https://i.imgur.com/7raSnIa.jpg",
+			"https://i.imgur.com/nKM0Vq1.jpg"
+		],
+		"video": [
+			{
+				"thumbnail": "",
+				"video": ""
+			}
+		]
+	},
+	{
+		"contestant": "14",
+		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-16 14:19",
+		"discord": "@RafaD34#5908",
+		"verification": [
+			"https://i.imgur.com/frNenxC.jpg",
+			"https://i.imgur.com/R9Mq7g5.jpg"
+		],
+		"banano": [
+			"https://i.imgur.com/ZvfagEz.jpg",
+			"https://i.imgur.com/uXknztX.jpg"
+		],
+		"video": [
+			{
+				"thumbnail": "",
+				"video": ""
+			}
+		]
+	},
+	{
+		"contestant": "15",
+		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-16 15:19",
+		"discord": "@bbedward#9246",
+		"verification": [
+			"https://i.imgur.com/LX4HLIh.jpg",
+			"https://i.imgur.com/4eijM2k.jpg"
+		],
+		"banano": [
+			"https://i.imgur.com/ygBz7DW.jpg",
+			"https://i.imgur.com/OCCn6VP.jpg"
+		],
+		"video": [
+			{
+				"thumbnail": "",
+				"video": ""
+			}
+		]
+	},
+	{
+		"contestant": "16",
+		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-16 15:25",
+		"discord": "@Tefytur*LaExploradora#7742",
+		"verification": [
+			"https://i.imgur.com/SGSNUi1.jpg",
+			"https://i.imgur.com/c6iGqk7.jpg"
+		],
+		"banano": [
+			"https://i.imgur.com/5zNuYzP.jpg",
+			"https://i.imgur.com/6uUSSpT.jpg"
+		],
+		"video": [
+			{
+				"thumbnail": "",
+				"video": ""
+			}
+		]
+        },
+	{
+		"contestant": "15",
+		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-16 15:19",
+		"discord": "@bbedward#9246",
+		"verification": [
+			"",
+			""
+		],
+		"banano": [
+			"",
+			""
+		],
+		"video": [
+			{
+				"thumbnail": "",
+				"video": ""
+			}
+		]
+	},
+	{
+		"contestant": "15",
+		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-16 15:19",
+		"discord": "@bbedward#9246",
+		"verification": [
+			"",
+			""
+		],
+		"banano": [
+			"",
+			""
+		],
+		"video": [
+			{
+				"thumbnail": "",
+				"video": ""
+			}
+		]
 	}
 ]
+		
