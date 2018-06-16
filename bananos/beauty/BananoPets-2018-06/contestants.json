@@ -113,8 +113,8 @@
 		],
 		"video": [
 			{
-				"thumbnail": "",
-				"video": ""
+				"thumbnail": "https://img.youtube.com/vi/X7wxFgUa3UU/default.jpg",
+				"video": "https://www.youtube.com/embed/X7wxFgUa3UU"
 			}	
                 ]
         }
