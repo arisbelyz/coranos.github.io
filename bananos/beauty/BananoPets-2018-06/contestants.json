@@ -172,5 +172,23 @@
 				"thumbnail": "",
 				"video": ""
 			}
+
+	},
+	{
+		"contestant": "10",
+		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-15 21:01",
+		"discord": "@Deacero1000#3856",
+		"verification": [
+			"https://i.imgur.com/Mw2OKyT.jpg"
+		],
+		"banano": [
+			"https://i.imgur.com/0vnX6t6.jpg"
+		],
+		"video": [
+			{
+				"thumbnail": "",
+				"video": ""
+			}
+		]	
 ]
 		
