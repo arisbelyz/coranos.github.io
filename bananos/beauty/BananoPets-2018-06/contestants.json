@@ -283,63 +283,6 @@
 				"video": ""
 			}
 		]
-	},
-	{
-		"contestant": "16",
-		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-16 15:25",
-		"discord": "@Tefytur*LaExploradora#7742",
-		"verification": [
-			"https://i.imgur.com/SGSNUi1.jpg",
-			"https://i.imgur.com/c6iGqk7.jpg"
-		],
-		"banano": [
-			"https://i.imgur.com/5zNuYzP.jpg",
-			"https://i.imgur.com/6uUSSpT.jpg"
-		],
-		"video": [
-			{
-				"thumbnail": "",
-				"video": ""
-			}
-		]
-        },
-	{
-		"contestant": "15",
-		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-16 15:19",
-		"discord": "@bbedward#9246",
-		"verification": [
-			"",
-			""
-		],
-		"banano": [
-			"",
-			""
-		],
-		"video": [
-			{
-				"thumbnail": "",
-				"video": ""
-			}
-		]
-	},
-	{
-		"contestant": "15",
-		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-16 15:19",
-		"discord": "@bbedward#9246",
-		"verification": [
-			"",
-			""
-		],
-		"banano": [
-			"",
-			""
-		],
-		"video": [
-			{
-				"thumbnail": "",
-				"video": ""
-			}
-		]
 	}
 ]
 		
