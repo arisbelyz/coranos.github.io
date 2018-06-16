@@ -4,7 +4,8 @@
 		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-14 20:05",
 		"discord": "@Roinell-**Team-Los-Mete-Cabra**#3415 ",
 		"verification": [
-			"https://i.imgur.com/9NsJozn.jpg"
+			"https://i.imgur.com/9NsJozn.jpg",
+			"https://i.imgur.com/iZQni43.jpg"
 		],
 		"banano": [
 			"https://i.imgur.com/o9jfPbO.jpg"
@@ -99,7 +100,7 @@
 		]
 	},
 	{       
-		"contestant": "5",
+		"contestant": "6",
 		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-15 16:01",
 		"discord": "@👑 Nela 👑#6999",
 		"verification": [
@@ -117,6 +118,59 @@
 				"video": "https://www.youtube.com/embed/X7wxFgUa3UU"
 			}	
                 ]
-        }
+        },
+	{       
+		"contestant": "7",
+		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-15 19:01",
+		"discord": "@gladiache#4650",
+		"verification": [
+			"https://i.imgur.com/U4U5Xau.jpg"
+		],
+		"banano": [
+			""
+		],
+		"video": [
+			{
+				"thumbnail": "",
+				"video": ""
+			}	
+                ]
+	 },
+	 {       
+		"contestant": "8",
+		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-15 20:01",
+		"discord": "@bananaman#6813",
+		"verification": [
+			"https://i.imgur.com/o2kehIs.jpg",
+			"https://i.imgur.com/9sPVPBv.jpg"
+		],
+		"banano": [
+			"https://i.imgur.com/SnIhNrK.jpg"
+		],
+		"video": [
+			{
+				"thumbnail": "",
+				"video": ""
+			}
+
+		 ]
+	 },
+	 {       
+		"contestant": "9",
+		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-15 20:01",
+		"discord": "@AlgiornoOficial#6911",
+		"verification": [
+			"https://i.imgur.com/xjbfiFN.jpg",
+			"https://i.imgur.com/6rCqKl1.jpg"
+		],
+		"banano": [
+			"https://i.imgur.com/3jPIK4l.jpg",
+			"https://i.imgur.com/zNyPQp8.jpg"
+		],
+		"video": [
+			{
+				"thumbnail": "",
+				"video": ""
+			}
 ]
 		
