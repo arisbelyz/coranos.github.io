@@ -47,23 +47,15 @@
 		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-14 22:00",
 		"discord": "@Snappadoodle🇺🇸#4147",
 		"verification": [
-			"https://i.imgur.com/7yZeldB.jpg",
-			"https://cdn.discordapp.com/attachments/457641061477646347/457641735582121985/IMG_20180613_181140.jpg",
-			"https://cdn.discordapp.com/attachments/457641061477646347/457642018596978706/IMG_20180615_120746.jpg"
+			"https://i.imgur.com/7yZeldB.jpg"
 		],
 		"banano": [
-			"https://i.imgur.com/7yZeldB.jpg",
-			"https://cdn.discordapp.com/attachments/457641061477646347/457641788794994707/LALA_still.jpg",
-			"https://cdn.discordapp.com/attachments/457641061477646347/457642026498916362/Woody_still.jpg"
+			"https://i.imgur.com/7yZeldB.jpg"
 		],
 		"video": [
 			{
-				"thumbnail": "https://img.youtube.com/vi/GqqCjLt1m7I/default.jpg",
-				"video": "https://www.youtube.com/embed/GqqCjLt1m7I"
-			},
-			{
-				"thumbnail": "https://img.youtube.com/vi/txnO844oYEs/default.jpg",
-				"video": "https://www.youtube.com/embed/txnO844oYEs"
+				"thumbnail": "",
+				"video": ""
 			}
 		]
 	},
@@ -238,14 +230,13 @@
 	{
 		"contestant": "13",
 		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-16 14:19",
-		"discord": "@Snappadoodle🇺🇸#4147",
+		"discord": "@Carlosluna#4673",
 		"verification": [
-			"https://i.imgur.com/7raSnIa.jpg",
-			"https://i.imgur.com/nKM0Vq1.jpg"
+			"https://media.discordapp.net/attachments/437798840351981573/457552526401601547/01.JPG?width=494&height=371",
+			"https://media.discordapp.net/attachments/437798840351981573/457553644905299979/03.jpg?width=496&height=372"
 		],
 		"banano": [
-			"https://i.imgur.com/7raSnIa.jpg",
-			"https://i.imgur.com/nKM0Vq1.jpg"
+			"https://media.discordapp.net/attachments/437798840351981573/457552680739536898/02.JPG?width=278&height=371"
 		],
 		"video": [
 			{
@@ -284,6 +275,25 @@
 		"banano": [
 			"https://i.imgur.com/ygBz7DW.jpg",
 			"https://i.imgur.com/OCCn6VP.jpg"
+		],
+		"video": [
+			{
+				"thumbnail": "",
+				"video": ""
+			}
+		]
+	},
+	{
+		"contestant": "16",
+		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-16 15:19",
+		"discord": "@kASH#6329",
+		"verification": [
+			"https://imgur.com/ooQavmW",
+			"https://imgur.com/dLhAdqT"
+		],
+		"banano": [
+			"https://imgur.com/JW59Mwy",
+			"https://imgur.com/dLhAdqT"
 		],
 		"video": [
 			{
