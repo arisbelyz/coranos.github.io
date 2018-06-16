@@ -24,7 +24,6 @@
 		"verification": [
 			"https://i.imgur.com/gOgwtyu.jpg",
 			"https://i.imgur.com/TT50DYF.jpg"
-			
 		],
 		"banano": [
 			"https://i.imgur.com/0ikmeE8.jpg",
@@ -99,7 +98,7 @@
 			}
 		]
 	},
-	{       
+	{
 		"contestant": "6",
 		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-15 16:01",
 		"discord": "@👑 Nela 👑#6999",
@@ -116,10 +115,10 @@
 			{
 				"thumbnail": "https://img.youtube.com/vi/X7wxFgUa3UU/default.jpg",
 				"video": "https://www.youtube.com/embed/X7wxFgUa3UU"
-			}	
-                ]
-        },
-	{       
+			}
+		]
+	},
+	{
 		"contestant": "7",
 		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-15 19:01",
 		"discord": "@gladiache#4650",
@@ -133,10 +132,10 @@
 			{
 				"thumbnail": "",
 				"video": ""
-			}	
-                ]
-	 },
-	 {       
+			}
+		]
+	},
+	{
 		"contestant": "8",
 		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-15 20:01",
 		"discord": "@bananaman#6813",
@@ -152,10 +151,9 @@
 				"thumbnail": "",
 				"video": ""
 			}
-
-		 ]
-	 },
-	 {       
+		]
+	},
+	{
 		"contestant": "9",
 		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-15 20:01",
 		"discord": "@AlgiornoOficial#6911",
@@ -172,8 +170,7 @@
 				"thumbnail": "",
 				"video": ""
 			}
-                 
-		 ]
+		]
 	},
 	{
 		"contestant": "10",
@@ -189,6 +186,44 @@
 			{
 				"thumbnail": "",
 				"video": ""
+			}
+		]
+	},
+	{
+		"contestant": "11",
+		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-15 32:01",
+		"discord": "@Tefytur*LaExploradora#7742",
+		"verification": [
+			"https://media.discordapp.net/attachments/446763126700900353/457403360862011404/imagen_1_pet.jpg"
+		],
+		"banano": [
+			"https://cdn.discordapp.com/attachments/446763126700900353/457403879089373195/imagen_2_pet.jpg",
+			"https://cdn.discordapp.com/attachments/446763126700900353/457404547644653569/IMG_20180615_191408.JPG",
+			"https://cdn.discordapp.com/attachments/446763126700900353/457405151477628929/IMG_20180615_181018.jpg"
+		],
+		"video": [
+			{
+				"thumbnail": "https://img.youtube.com/vi/3a4FJUrDQZc/default.jpg",
+				"video": "https://www.youtube.com/embed/3a4FJUrDQZc"
+			}
+		]
+	},
+	{
+		"contestant": "12",
+		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-16 10:19",
+		"discord": "@jbrice#2496",
+		"verification": [
+			"https://cdn.discordapp.com/attachments/451557737898180609/457565467519746049/photo_2018-06-16_08-33-13.jpg"
+		],
+		"banano": [
+			"https://cdn.discordapp.com/attachments/451557737898180609/457565447131496449/photo_2018-06-16_10-57-29.jpg",
+			"https://cdn.discordapp.com/attachments/451557737898180609/457565449761325067/photo_2018-06-16_10-57-47_2.jpg",
+			"https://cdn.discordapp.com/attachments/451557737898180609/457565452571246593/photo_2018-06-16_10-57-47_3.jpg"
+		],
+		"video": [
+			{
+				"thumbnail": "https://img.youtube.com/vi/5rJBrSJx6cw/default.jpg",
+				"video": "https://www.youtube.com/embed/5rJBrSJx6cw"
 			}
 		]
 	}
