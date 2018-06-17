@@ -369,5 +369,26 @@
 				"video": "https://www.youtube.com/embed/gaxSMXYgKWc"
 			}
 		]
+	},
+	{
+		"contestant": "20",
+		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-16 18:02",
+		"discord": "Joset_Andres#7442",
+		"verification": [
+			"https://i.imgur.com/XE0zRmA.jpg",
+			"https://i.imgur.com/R2aplHH.jpg"
+		],
+		"banano": [
+			" https://i.imgur.com/XYu1Rst.png",
+			"https://i.imgur.com/izPeqV8.png",
+			"https://i.imgur.com/nvzWFye.png",
+			"https://i.imgur.com/v0laIH7.jpg"
+		],
+		"video": [
+			{
+				"thumbnail": "https://img.youtube.com/vi/gaxSMXYgKWc/default.jpg",
+				"video": "https://www.youtube.com/embed/gaxSMXYgKWc"
+			}
+		]
 	}
 ]
