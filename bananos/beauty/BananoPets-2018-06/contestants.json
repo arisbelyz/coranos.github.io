@@ -352,6 +352,22 @@
 				"video": "https://www.youtube.com/embed/TkbYOfms5U4"
 			}
 		]
+	},
+	{
+		"contestant": "19",
+		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-16 17:02",
+		"discord": "@anön#7189",
+		"verification": [
+			"https://i.imgur.com/PVkgA6J.jpg"
+		],
+		"banano": [
+			"https://i.imgur.com/jEe3ebl.jpg"
+		],
+		"video": [
+			{
+				"thumbnail": "https://img.youtube.com/vi/gaxSMXYgKWc/default.jpg",
+				"video": "https://www.youtube.com/embed/gaxSMXYgKWc"
+			}
+		]
 	}
 ]
-		
