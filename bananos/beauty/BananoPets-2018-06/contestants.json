@@ -82,8 +82,8 @@
 		],
 		"video": [
 			{
-				"thumbnail": "",
-				"video": ""
+				"thumbnail": "https://img.youtube.com/vi/qdmzHlzS8VY/default.jpg",
+				"video": "https://www.youtube.com/embed/qdmzHlzS8VY"
 			}
 		]
 	},
