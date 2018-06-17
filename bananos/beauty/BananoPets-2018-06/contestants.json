@@ -175,8 +175,8 @@
 		],
 		"video": [
 			{
-				"thumbnail": "",
-				"video": ""
+				"thumbnail": "https://img.youtube.com/vi/srC0eFCs3E0/default.jpg",
+				"video": "https://www.youtube.com/embed/srC0eFCs3E0"
 			}
 		]
 	},
