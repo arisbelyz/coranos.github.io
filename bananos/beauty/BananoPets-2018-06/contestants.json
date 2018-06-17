@@ -402,5 +402,22 @@
 				"video": "https://www.youtube.com/embed/TkbYOfms5U4"
 			}
 		]
+	},
+	{
+		"contestant": "22",
+		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-16 19:02",
+		"discord": "@roaltx#8555",
+		"verification": [
+			"https://i.imgur.com/qNndaMA.jpg"
+		],
+		"banano": [
+			"https://i.imgur.com/zSQdVry.jpg"
+		],
+		"video": [
+			{
+				"thumbnail": "https://img.youtube.com/vi/4Sa8EaKy24A/default.jpg",
+				"video": "https://www.youtube.com/embed/4Sa8EaKy24A"
+			}
+		]
 	}
 ]
