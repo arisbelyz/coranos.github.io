@@ -326,6 +326,54 @@
 				"video": ""
 			}
 		]
+	},
+	{
+		"contestant": "18",
+		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-16 18:02",
+		"discord": "@Stephrnm#1455",
+		"verification": [
+			"https://cdn.discordapp.com/attachments/447491840397017089/457682002179522600/Screenshot_20180616-190341.png",
+			"https://cdn.discordapp.com/attachments/447491840397017089/457682086237831179/FOTO_20180616_185735.jpg",
+			"https://cdn.discordapp.com/attachments/447491840397017089/457684450449555457/Screenshot_20180616-191117.png"
+		],
+		"banano": [
+			"https://cdn.discordapp.com/attachments/447491840397017089/457682237622845460/Screenshot_20180616-190010.png",
+			"https://cdn.discordapp.com/attachments/447491840397017089/457682958652801035/FOTO_20180616_190816.jpg",
+			"https://cdn.discordapp.com/attachments/447491840397017089/457684895494438943/Screenshot_20180616-191419.png",
+			"https://cdn.discordapp.com/attachments/447491840397017089/457685022942429184/FOTO_20180616_191612.jpg"
+		],
+		"video": [
+			{
+				"thumbnail": "https://img.youtube.com/vi/ZnCjGszqaEs/default.jpg",
+				"video": "https://www.youtube.com/embed/ZnCjGszqaEs"
+			},
+			{
+				"thumbnail": "https://img.youtube.com/vi/TkbYOfms5U4/default.jpg",
+				"video": "https://www.youtube.com/embed/TkbYOfms5U4"
+			}
+		]
+	},
+	{
+		"contestant": "18",
+		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-16 18:02",
+		"discord": "@Stephrnm#1455",
+		"verification": [
+			"https://cdn.discordapp.com/attachments/447491840397017089/457682002179522600/Screenshot_20180616-190341.png",
+			"https://cdn.discordapp.com/attachments/447491840397017089/457682086237831179/FOTO_20180616_185735.jpg",
+			"https://cdn.discordapp.com/attachments/447491840397017089/457684450449555457/Screenshot_20180616-191117.png"
+		],
+		"banano": [
+			"https://cdn.discordapp.com/attachments/447491840397017089/457682237622845460/Screenshot_20180616-190010.png",
+			"https://cdn.discordapp.com/attachments/447491840397017089/457682958652801035/FOTO_20180616_190816.jpg",
+			"https://cdn.discordapp.com/attachments/447491840397017089/457684895494438943/Screenshot_20180616-191419.png",
+			"https://cdn.discordapp.com/attachments/447491840397017089/457685022942429184/FOTO_20180616_191612.jpg"
+		],
+		"video": [
+			{
+				"thumbnail": "https://img.youtube.com/vi/ZnCjGszqaEs/default.jpg",
+				"video": "https://www.youtube.com/embed/ZnCjGszqaEs"
+			}
+		]
 	}
 ]
 		
