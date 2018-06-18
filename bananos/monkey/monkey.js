@@ -296,7 +296,7 @@ function synchDiscordDisplay() {
 function synchBotDisplay() {
     const account = d3.select('#old-account').node().value;
     const discord = d3.select('#old-discord').node().value;
-    const bot = d3.selectAll('input[name="bot"]:checked').node().value;
+    const bot = d3.select('#new-bot').node().value;
     if ((account.length == 0) || (discord.length == 0) || (bot.length == 0)) {
       d3.select('#hasBotFlagYes').style('display', 'none');
       d3.select('#hasBotFlagNo').style('display', 'block');
@@ -349,11 +349,11 @@ function setupHtml () {
   const tr5 = table.append('tr');
   tr5.append('th').attr('colspan','8').attr('class','solid_border centered_text').attr('id','winnerStats').text('??');
 
-  body.append('p').append('b').style('background','lightgreen').html('Game is live. Bananos will be distributed to all verified accounts<br>'
-    + 'after a verification period has passed.<br>'
-    + '(This message will disappear at 5AM Chicago Time on Monday June 18th).');
-// body.append('p').append('b').style('background','red').text('Game is in demo mode, no bananos won will be distributed (watch for this message to disappear at
-// 5PM Chicago Time on Friday June 15th).');
+// body.append('p').append('b').style('background','lightgreen').html('Game is live. Bananos will be distributed to all verified accounts<br>'
+// + 'after a verification period has passed.<br>'
+// + '(This message will disappear at 5AM Chicago Time on Monday June 18th).');
+  
+ body.append('p').append('b').style('background','red').text('Game is in demo mode, no bananos won will be distributed');
   
   body.append('p').text('Game Starts In (Seconds) ').append('span').attr('id','timer').text('??');
   
@@ -408,23 +408,14 @@ function addBotDivs(accountDiv) {
     .text('bot: ').append('span').attr('id','bot-text').text('??');
   yesBotDiv.append('input').attr('id','old-bot').attr('type','hidden').attr('name','bot').attr('value','');
   
-  const noBotDiv = accountDiv.append('div');
-  noBotDiv.attr('id','hasBotFlagNo').append('p').append('b').text('Please say if you are a bot.');
+  const botDiv = accountDiv.append('div');
+  botDiv.attr('id','hasBotFlagNo').append('p').append('b').text('Please say if you are a bot.');
   
-  const table = noBotDiv.append('table');
-  table.attr('class','solid_border centered_text');
-  const tr1 = table.append('tr');
-
-  const yesBot = tr1.append('th').attr('class','solid_border centered_text');
-  const noBot = tr1.append('th').attr('class','solid_border centered_text');
-  const maybeBot = tr1.append('th').attr('class','solid_border centered_text');
-  
-  yesBot.append('input').attr('id','new-bot-yes').attr('type','radio').attr('name','bot').attr('value','yes');
-  yesBot.append('span').text('i am a bot');
-  noBot.append('input').attr('id','new-bot-no').attr('type','radio').attr('name','bot').attr('value','no');
-  noBot.append('span').text('i am not a bot');
-  maybeBot.append('input').attr('id','new-bot-maybe').attr('type','radio').attr('name','bot').attr('value','maybe').attr('checked',true);
-  maybeBot.append('span').text('i am not sure');
+  const botSelect = botDiv.append('select');
+  botSelect.attr('id','new-bot').attr('name','bot').attr('class','solid_border centered_text');
+  botSelect.append('option').attr('id','new-bot-maybe').attr('value','maybe').text('i am not sure if i am a bot');
+  botSelect.append('option').attr('id','new-bot-yes').attr('value','yes').text('i am a bot');
+  botSelect.append('option').attr('id','new-bot-no').attr('value','no').text('i am not a bot');
 }
 
 function reloadImages() {
