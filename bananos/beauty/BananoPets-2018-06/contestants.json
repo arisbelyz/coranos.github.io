@@ -433,5 +433,21 @@
 				"video": "https://www.youtube.com/embed/S0g4HTmR298"
 			}
 		]
+	},
+	{
+		"contestant": "23",
+		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-16 19:12",
+		"discord": "@Alfonso22#9153",
+		"verification": [
+			"https://cdn.discordapp.com/attachments/457543647991431189/457548335407169536/IMG_20180616_091308954_HDR.jpg",
+			"https://cdn.discordapp.com/attachments/457543647991431189/457548515766173708/IMG_20180616_091303922_HDR.jpg",
+			"https://cdn.discordapp.com/attachments/457543647991431189/457548625497817108/IMG_20180616_091259209.jpg"
+		],
+		"banano": [
+			"https://cdn.discordapp.com/attachments/457543647991431189/457548709249417216/IMG_20180616_091417623.jpg",
+			"https://cdn.discordapp.com/attachments/457543647991431189/457548799636799491/IMG_20180616_091413193.jpg"
+		],
+		"video": [
+		]
 	}
 ]
