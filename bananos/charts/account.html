@@ -73,8 +73,12 @@ form {
           for (let dataIx = 0; dataIx < response.results.length; dataIx++) {
             response.results[dataIx].rank = dataIx + 1;
             response.results[dataIx].balance = numberWithCommas(response.results[dataIx].balance);
-            response.results[dataIx].reddit = redditHistory.hasOwnProperty(response.results[dataIx].account);
-            response.results[dataIx].discord = discordHistory.hasOwnProperty(response.results[dataIx].account);
+            if(redditHistory != undefined) {
+            	response.results[dataIx].reddit = redditHistory.hasOwnProperty(response.results[dataIx].account);
+            }
+            if(discordHistory != undefined) {
+            	response.results[dataIx].discord = discordHistory.hasOwnProperty(response.results[dataIx].account);
+            }
             var balanceOut = 0;
             for (const [key, value] of Object.entries(response.results[dataIx].send_history)) {
                 balanceOut += parseInt(value);
