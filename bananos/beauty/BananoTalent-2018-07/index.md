@@ -37,6 +37,7 @@
 		11- Evite incluir cualquier cosa que pueda permitir a otros acosarle, como su dirección de casa, etc.
 		11- Avoid including anything that would help someone harrass you, like your street address.
 
+		12- Those who have won first and second place in previous competitions  can participate, but cannot win first or second place.
 
 ###Juicios y lineas de tiempo
 
