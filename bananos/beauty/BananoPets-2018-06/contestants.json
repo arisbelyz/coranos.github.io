@@ -447,7 +447,65 @@
 			"https://cdn.discordapp.com/attachments/457543647991431189/457548709249417216/IMG_20180616_091417623.jpg",
 			"https://cdn.discordapp.com/attachments/457543647991431189/457548799636799491/IMG_20180616_091413193.jpg"
 		],
+		"video": []
+	},
+	{
+		"contestant": "24",
+		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-18 12:00",
+		"discord": "@lon31#0383",
+		"verification": [
+			"https://i.imgur.com/JNubHZr.jpg",
+			"https://i.imgur.com/XSvNApZ.jpg",
+			"https://i.imgur.com/vtbMyI9.jpg",
+			"https://i.imgur.com/DMu4c1o.jpg",
+			"https://i.imgur.com/DMu4c1o.jpg"
+		],
+		"banano": [],
 		"video": [
+			{
+				"thumbnail": "https://img.youtube.com/vi/vWKK9WMJC1c/default.jpg",
+				"video": "https://www.youtube.com/embed/vWKK9WMJC1c"
+			}
+		]
+	},
+	{
+		"contestant": "25",
+		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-18 12:01",
+		"discord": "@XdSantosM2255x42oDX#8194",
+		"verification": [
+			"https://i.imgur.com/Lv51uwf.jpg",
+			"https://i.imgur.com/YcIqYRw.png",
+			"https://i.imgur.com/UMdCInA.jpg",
+			"https://i.imgur.com/xwK1jLt.jpg"
+		],
+		"banano": [],
+		"video": [
+			{
+				"thumbnail": "https://img.youtube.com/vi/vWKK9WMJC1c/default.jpg",
+				"video": "https://www.youtube.com/embed/vWKK9WMJC1c"
+			}
+		]
+	},
+	{
+		"contestant": "26",
+		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-18 12:01",
+		"discord": "@Team Junglo Arisbelyz #7758",
+		"verification": [
+			"https://i.imgur.com/qnAAfJA.jpg",
+			"https://i.imgur.com/j42VnbY.jpg",
+			"https://i.imgur.com/1eWxGDp.jpg",
+			"https://i.imgur.com/en4tt9p.jpg",
+			"https://i.imgur.com/l8ZvXpQ.jpg",
+			"https://i.imgur.com/NwtzR06.jpg",
+			"https://i.imgur.com/Ju2uZXf.jpg",
+			"https://i.imgur.com/8SuGv9i.jpg"
+		],
+		"banano": [],
+		"video": [
+			{
+				"thumbnail": "https://img.youtube.com/vi/vWKK9WMJC1c/default.jpg",
+				"video": "https://www.youtube.com/embed/vWKK9WMJC1c"
+			}
 		]
 	}
 ]
