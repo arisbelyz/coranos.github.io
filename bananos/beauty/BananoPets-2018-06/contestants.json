@@ -89,20 +89,30 @@
 	},
 	{
 		"contestant": "5",
-		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-15 16:00",
+		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-16 19:03",
 		"discord": "@azuLeto#1082",
 		"verification": [
-			"https://i.imgur.com/twCZ8fV.jpg",
-			"https://i.imgur.com/9Vl4Kyc.jpg"
+			"https://i.imgur.com/jMCmN22.jpg",
+			"https://i.imgur.com/aNmQap1.jpg",
+			"https://i.imgur.com/2T9VUxY.jpg"
 		],
 		"banano": [
-			"https://i.imgur.com/U7KlIW9.jpg",
-			"https://i.imgur.com/dZ9T5ma.jpg"
+			"https://i.imgur.com/HKICr19.jpg",
+			"https://i.imgur.com/dfe3Dvs.jpg",
+			"https://i.imgur.com/jNJ9h1V.jpg"
 		],
 		"video": [
 			{
-				"thumbnail": "",
-				"video": ""
+				"thumbnail": "https://img.youtube.com/vi/oUVSMS4N63o/default.jpg",
+				"video": "https://www.youtube.com/embed/oUVSMS4N63o"
+			},
+			{
+				"thumbnail": "https://img.youtube.com/vi/OqzzB3fAzNs/default.jpg",
+				"video": "https://www.youtube.com/embed/OqzzB3fAzNs"
+			},
+			{
+				"thumbnail": "https://img.youtube.com/vi/SBqcfGy3c-E/default.jpg",
+				"video": "https://www.youtube.com/embed/SBqcfGy3c-E"
 			}
 		]
 	},
@@ -421,35 +431,6 @@
 			{
 				"thumbnail": "https://img.youtube.com/vi/S0g4HTmR298/default.jpg",
 				"video": "https://www.youtube.com/embed/S0g4HTmR298"
-			}
-		]
-	},
-	{
-		"contestant": "23",
-		"entry-date-time-yyyy-mon-dd-hh-mm-utc": "2018-06-16 19:03",
-		"discord": "@azuLeto#1082",
-		"verification": [
-			"https://i.imgur.com/jMCmN22.jpg",
-			"https://i.imgur.com/aNmQap1.jpg",
-			"https://i.imgur.com/2T9VUxY.jpg"
-		],
-		"banano": [
-			"https://i.imgur.com/HKICr19.jpg",
-			"https://i.imgur.com/dfe3Dvs.jpg",
-			"https://i.imgur.com/jNJ9h1V.jpg"
-		],
-		"video": [
-			{
-				"thumbnail": "https://img.youtube.com/vi/oUVSMS4N63o/default.jpg",
-				"video": "https://www.youtube.com/embed/oUVSMS4N63o"
-			},
-			{
-				"thumbnail": "https://img.youtube.com/vi/OqzzB3fAzNs/default.jpg",
-				"video": "https://www.youtube.com/embed/OqzzB3fAzNs"
-			},
-			{
-				"thumbnail": "https://img.youtube.com/vi/SBqcfGy3c-E/default.jpg",
-				"video": "https://www.youtube.com/embed/SBqcfGy3c-E"
 			}
 		]
 	}
