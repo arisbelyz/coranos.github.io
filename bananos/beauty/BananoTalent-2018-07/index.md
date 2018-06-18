@@ -44,17 +44,17 @@
 
 ###Judgement and timelines
 
-		- El jurado tiene la ultima palabra a la hora de decidir el ganador.
-		- The judges have the last word when deciding the winner.
+		-El jurado tiene la ultima palabra a la hora de decidir el ganador. 
+		-The jury has the last word when deciding the winner.
 		
-		- Habra un periodo de gracias de 6 horas debido a las malas conexiones a internet y fallas electricas en algunas zonas para asi organizarnos bien los jueces.
-		- There will be a grace period of 6 hours due to poor internet connections and power failures in some areas so judges can organize the contestants.
+		-Habra un periodo de gracias de 6 horas debido a las malas conexiones a internet y fallas electricas en algunas zonas para asi organizarnos bien los jueces. 
+		-There will be a grace period of 6 hours due to poor internet connections and power failures in some areas so judges can organize well.
 		
-		- Durante el tiempo de gracia antes mencionado no estaran habilitados los registros, asi que registrate temprano.
-		- Once the grace period has started, you will not be allowed to reguster as a new contestant, so register early.
+		-Durante el tiempo de gracia antes mencionado estaran habilitados los registros, por las fallas de internet, de igual manera asi que registrate temprano. 
+		-During the time of grace mentioned above, the records will be enabled, due to internet failures, in the same way register early.. 
 		
-		- Actualizaciones de registros no seran aceptados durante el periodo de gracia, una vez que envie sus fotos y video, no estara permitido que envie mas de estos.
-		- registration will not be accepted during the grace period, once you submit your photos and video, you will not be allowed to send more unless it is correcting a mistake.
+		- Actualizaciones de registros no seran aceptados durante el periodo de gracia, una vez que envie sus fotos y video, no estara permitido que envie mas de estos. 
+		- Record updates will not be accepted during the grace period, once you submit your photos and video, you will not be allowed to send more of these.
 		
 		- Todos los concursantes seran juzgados uno a uno, de pasar la primera fase de evaluacion estaran sus fotos al final de esta hoja.
 		- All contestants will be judged one by one, to pass the first phase of evaluation will be their photos at the end of this sheet.
