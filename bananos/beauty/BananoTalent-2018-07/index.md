@@ -10,29 +10,35 @@
 		
 		3- Usa tu imaginación, sé creativo.
 		3- Use your imagination, be creative.
+		
+		4- No es necesario que sea ciudadano de la Republica banano. 
+		4- It is not necessary for you to be a citizen of the banana republic.
 
 ### Rules (Required)
 		
-		4- No es necesario que sea ciudadano de la Republica banano.
-		4- It is not necessary for you to be a citizen of the banana republic.
+		1- Todos los participantes deben ser mayores de edad. 
+		1- All participants must be of legal age 
 		
-		5- Todos los participantes deben ser mayores de edad.
-		5- All participants must be of legal age.
+		2- los participantes que han ganado los 2 primeros lugares en concursos anteriores, pueden participar, pero no podran ganar el primer ni segundo lugar, Esto para dar oportunidada otros participantes. 
+		2- The participants who have won the first 2 places in previous competitions, can participate, but can not win the first or second place, This to give other participants opportunity 
 		
-		6- Un menor puede aparecer en la foto y en el video con el participante, pero tiene que estar vestido y cubierto de hombros a tobillos.
-		6- A minor can be in the photo and the video with the contestant, but must have clothes covering shoulders to knees.
+		3- Un menor puede aparecer en la foto y en el video con el participante, pero tiene que estar vestido y cubierto de hombros a tobillos. 
+		3- A minor can be in the photo and the video with the contestant, but must have clothes covering shoulders to knees. 
 		
-		7- Todas las fotos y videos tienen que ser legales y accede a que el concurso los use y sean visibles para el público (no sólo para los jueces).
-		7- All photos and videos must be legal, and you agree the contest can use them for the contest, visible to the public (not just to judges).
+		4- Todas las fotos y videos tienen que ser legales y accede a que el concurso los use y sean visibles para el público (no sólo para los jueces). 
+		4- All photos and videos must be legal, and you agree the contest can use them for the contest, visible to the public (not just to judges). 
 		
-		8- No desnudos, no pornografia.
-		8- No nudity, not pornography.
+		5- No desnudos, no pornografia. 
+		5- Not naked, not pornography. 
 		
-		9- No seran validas las fotos con derecho de autor o sacadas de internet seran revisadas una a una.
-		9- Submissions will not be valid if they are photos that were copyrighted or taken from the internet. They will be reviewed by the judges as needed.
+		6- No seran validas las fotos con derecho de autor o sacadas de internet seran revisadas una a una. 
+		6- Will not be valid photos copyrighted or taken from the internet will be reviewed one by one. 
 		
-		10- Si usted es un fotógrafo profesional y quiere hacer autofotos, entonces no hay problema.
-		10- If you are a professional photographer and want to make selfies, then there is no problem.
+		7- Si usted es un fotógrafo profesional y quiere hacer autofotos, entonces no hay problema. 
+		7- If you are a professional photographer and want to make selfies, then there is no problem. 
+		
+		8- Evite incluir cualquier cosa que pueda permitir a otros acosarle, como su dirección de casa, etc. 
+		8- Avoid including anything that would help someone harrass you, like your street address.
 		
 		11- Evite incluir cualquier cosa que pueda permitir a otros acosarle, como su dirección de casa, etc.
 		11- Avoid including anything that would help someone harrass you, like your street address.
